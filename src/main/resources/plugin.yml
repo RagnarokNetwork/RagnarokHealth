@@ -1,0 +1,7 @@
+name: RagnarokHealth
+version: '${project.version}'
+main: net.ragnaroknetwork.ragnarokshrug.RagnarokHealth
+api-version: 1.8.8
+authors: [ Bloedarend ]
+description: Fix absorption health
+softdepend: [ PlaceholderAPI ]
